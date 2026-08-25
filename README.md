@@ -1,4 +1,4 @@
-# Editor Scale Box 3D
+#  Scale Box 3D
 
 <p align="center">
   <img src="Images/Gif_1.gif" width="49%">
