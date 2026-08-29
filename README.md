@@ -1,9 +1,28 @@
-#  Scale Box 3D
+#  Advanced Scale
+
+Advanced Scale is a bounding box scaling tool for Unreal editor
+
+
+
+## 1. Face Handles
+Located at the center of each face. Drag a handle to scale the selection along a single axis while the opposite face remains fixed.
 
 <p align="center">
   <img src="Images/Gif_1.gif" width="49%">
   <img src="Images/Gif_2.gif" width="49%">
 </p>
+
+## 2. Edge Handles
+Located on the edges of the bounding box. Drag a handle to scale the selection along two axes simultaneously while keeping the opposite edges fixed.
+
+## 3. Corner Handles
+Located at the corners of the bounding box. Drag a handle to scale the selection along all relevant axes while keeping the opposite corner fixed.
+
+
+
+
+
+......
 
 **Editor Scale Box** is an Unreal Engine editor tool for intuitive object scaling and bounding-box editing directly in the viewport.
 
