@@ -15,6 +15,10 @@ Advanced Scale is a bounding box scaling tool for Unreal editor
 
 ## ◆`Turn on tool`
 
+Press Alt+T (default) or click the three-color button at the top of the viewport (the button's position depends on the version)
+
+<p align="center">
+  <img src="Images/Button.png" height="300">
 
 
 <p>&nbsp;</p> 
