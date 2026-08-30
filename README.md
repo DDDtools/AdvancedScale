@@ -24,7 +24,7 @@
 > </p>
 <p>&nbsp;</p> 
 
-## ◆ `Interface`
+## ◆ `Advanced Scale usage`
 
 ### 1. Menu
 
@@ -85,8 +85,16 @@
 
 ### 5. Flat Mode
 > - #### Plane objects
-> When a flat object is selected, flat mode is activated. Face Handles are displayed only on four sides. Corner Handles are displayed in corners
+> When a flat object is selected, `Flat Mode` is activated. `Face Handles` are displayed only on four sides. `Corner Handles` are displayed in corners
 > 
 > <p align="center">
 >   <img src="Images/Gif_7.gif" height="300">
 > </p>
+>
+> - #### Flattened object
+> When an object is flattened to a certain thickness (specified in the plugin settings), `Flat Mode` is activated for `Corner Handles`
+>
+> <p align="center">
+>   <img src="Images/Gif_8.gif" height="300">
+> </p>
+
