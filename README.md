@@ -89,7 +89,7 @@
 <br>
 
 ### 5. Flat Mode
-> - #### Plane objects
+> - #### Planar objects
 > When a flat object is selected, `Flat Mode` is activated. `Face Handles` are displayed only on four sides. `Corner Handles` are displayed in corners
 > 
 > <p align="center">
