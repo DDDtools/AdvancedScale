@@ -30,7 +30,11 @@ Advanced Scale is a bounding box scaling tool for Unreal editor
 
 To activate Edge/Corner handles hold `Ctrl button` or select `Corner Handles checkbox` from the menu at the bottom right. Hover your mouse over the place where the handle should be
 
-<img src="Images/CornerHandles.png" >
+<p align="center">
+  <img src="Images/CornerHandles.png" height="300" align="middle">
+  <img src="Images/Gif_6.gif" height="300" align="middle">
+</p>
+
 
 - **`Edge Handles`** located on the edges of the bounding box. Drag a handle to scale the selection along two axes simultaneously while keeping the opposite edges fixed
 
