@@ -2,21 +2,27 @@
 
 Advanced Scale is a bounding box scaling tool for Unreal editor
 
+# Instalation
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;1. Install Plugin to project</h2>
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;2. Turn on Advanced Scale in plugin list</h2>
 
+ <img src="Images/Install.png">
 
-## 1. Face Handles
-Located at the center of each face. Drag a handle to scale the selection along a single axis while the opposite face remains fixed.
+# Interface
+
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;1. Face Handles</h2>
+Located at the center of each face. Drag a handle to scale the selection along a single axis while the opposite face remains fixed
 
 <p align="center">
   <img src="Images/Gif_1.gif" width="49%">
   <img src="Images/Gif_2.gif" width="49%">
 </p>
 
-## 2. Edge Handles
-Located on the edges of the bounding box. Drag a handle to scale the selection along two axes simultaneously while keeping the opposite edges fixed.
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;2. Edge Handles</h2>
+Located on the edges of the bounding box. Drag a handle to scale the selection along two axes simultaneously while keeping the opposite edges fixed
 
-## 3. Corner Handles
-Located at the corners of the bounding box. Drag a handle to scale the selection along all relevant axes while keeping the opposite corner fixed.
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;3. Corner Handles</h2>
+Located at the corners of the bounding box. Drag a handle to scale the selection along all relevant axes while keeping the opposite corner fixed
 
 
 
