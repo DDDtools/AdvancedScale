@@ -26,7 +26,18 @@
 
 ## ◆ `Advanced Scale usage`
 
-### 1. Menu
+<blockquote>
+
+### 1. Hotkeys
+
+> - `Alt+T` - Turn on Advanced Scale
+> - `Ctrl` - Hold `Ctrl` to turn on Edge/Corner handles
+> - `Shift` - Hold `Shift` while dragging handles to scale uniformly
+> - `Alt` - Hold `Alt` while dragging handles to scale opposite sides
+
+<p>&nbsp;</p>
+
+### 2. Menu
 
 > By default, the menu is located in the lower left corner of the viewport
 >
@@ -37,14 +48,6 @@
 > - Corner Handles - Turn on Corner and Edge handles
 > - Local Offset - Adjusts each object’s position along its local axes while scaling
 > - Show in Game View - Display bounding box of Advanced Scale tool in Game View mode
-<p>&nbsp;</p>
-
-### 2. Hotkeys
-
-> - `Alt+T` - Turn on Advanced Scale
-> - `Ctrl` - Hold `Ctrl` to turn on Edge/Corner handles
-> - `Shift` - Hold `Shift` while dragging handles to scale uniformly
-> - `Alt` - Hold `Alt` while dragging handles to scale opposite sides
 
 <br>
 
@@ -68,14 +71,16 @@
 >   <img src="Images/Gif_6.gif" height="300" align="middle">
 > </p>
 >
-> **`Edge Handles`** are located on the edges of the bounding box. Drag a handle to scale the selection along two axes simultaneously while keeping the opposite edges fixed
+> - #### Edge Handles
+> `Edge Handles` are located on the edges of the bounding box. Drag a handle to scale the selection along two axes simultaneously while keeping the opposite edges fixed
 >
 > <p align="center">
 >   <img src="Images/Gif_3.gif" height="300">
 >   <img src="Images/Gif_4.gif" height="300">
 > </p>
 >
-> **`Corner Handles`** are located at the corners of the bounding box. Drag a handle to scale the selection along all relevant axes while keeping the opposite corner fixed
+> - #### Corner Handles
+> `Corner Handles` are located at the corners of the bounding box. Drag a handle to scale the selection along all relevant axes while keeping the opposite corner fixed
 >
 > <p align="center">
 >   <img src="Images/Gif_5.gif" height="300">
@@ -98,3 +103,7 @@
 >   <img src="Images/Gif_8.gif" height="300">
 > </p>
 
+<br>
+
+### 6. Multi objects
+>
