@@ -1,89 +1,86 @@
-# ◆`Advanced Scale`
+# ◆ `Advanced Scale`
 
-Advanced Scale is a bounding box scaling tool for Unreal editor
+> Advanced Scale is a bounding box scaling tool for the Unreal Editor.
 
-<p>&nbsp;</p>
+<br>
 
-## ◆`Instalation`
-1. Install Plugin to project
-2. Turn on Advanced Scale in plugin list
+## ◆ `Installation`
 
+> 1. Install the plugin to your project.
+> 2. Enable Advanced Scale in the plugin list.
+>
+> <p align="center">
+>   <img src="Images/Install.png">
+> </p>
 
- <img src="Images/Install.png">
+<br>
 
- <p>&nbsp;</p>
+## ◆ `Turn on Tool`
 
-## ◆`Turn on tool`
-
-Press Alt+T (default) or click the three-color button at the top of the viewport (the button's position depends on the version)
-
-<p align="center">
-  <img src="Images/Button.png" height="300">
-
+> Press `Alt+T` (default) or click the three-color button at the top of the viewport. The button position depends on the Unreal Engine version.
+>
+> <p align="center">
+>   <img src="Images/Button.png" height="300">
+> </p>
 <p>&nbsp;</p> 
 
-## ◆`Interface`
+## ◆ `Interface`
 
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;1. Menu</h2>
+### 1. Menu
 
-By default, the menu is located in the lower left corner of the viewport
-
-<p align="center">
-  <img src="Images/Menu.png" height="300">
-
-- Corner Handles - Turn on Corner and Edge handles. Hover your mouse over the place where the handle should be
-- Local Offset - Adjusts each object’s position along its local axes while scaling, helping rotated objects stay anchored to the opposite side
-- Show in Game View - Display bounding box of Advanced Scale tool in Game View mode
-
+> By default, the menu is located in the lower left corner of the viewport
+>
+> <p align="center">
+>   <img src="Images/Menu.png" height="300">
+> </p>
+>
+> - Corner Handles - Turn on Corner and Edge handles.
+> - Local Offset - Adjusts each object’s position along its local axes while scaling.
+> - Show in Game View - Display bounding box of Advanced Scale tool in Game View mode.
 <p>&nbsp;</p>
 
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;2. Hotkeys</h2>
+### 2. Hotkeys
 
-- Alt+T - Turn on Advanced Scale
-- Ctrl - hold `Ctrl button` to turn on Edge/Corner handles
-- Shift - hold `Shift button` while dragging handles to scale uniformly
-- Alt - hold `Alt button` while dragging handles to scale opposite sides
+> - `Alt+T` - Turn on Advanced Scale
+> - `Ctrl` - Hold `Ctrl` to turn on Edge/Corner handles
+> - `Shift` - Hold `Shift` while dragging handles to scale uniformly
+> - `Alt` - Hold `Alt` while dragging handles to scale opposite sides
 
-<p>&nbsp;</p>
+<br>
 
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;3. Face Handles</h2>
+### 3. Face Handles
 
-- **`Face Handles`** located at the center of each face. Drag a handle to scale the selection along a single axis while the opposite face remains fixed
+> **`Face Handles`** are located at the center of each face. Drag a handle to scale the selection along a single axis while the opposite face remains fixed.
+>
+> <p align="center">
+>   <img src="Images/Gif_1.gif" height="300">
+>   <img src="Images/Gif_2.gif" height="300">
+> </p>
 
-<p>&nbsp;</p>
+<br>
 
-<p align="center">
-  <img src="Images/Gif_1.gif" height="300">
-  <img src="Images/Gif_2.gif" height="300">
-</p>
+### 4. Edge/Corner Handles
 
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;4. Edge/Corner Handles</h2>
+> To activate Edge/Corner handles, hold `Ctrl` or select the `Corner Handles` checkbox from the menu at the bottom left. Hover your mouse over the place where the handle should be.
+>
+> <p align="center">
+>   <img src="Images/CornerHandles.png" height="300" align="middle">
+>   <img src="Images/Gif_6.gif" height="300" align="middle">
+> </p>
+>
+> **`Edge Handles`** are located on the edges of the bounding box. Drag a handle to scale the selection along two axes simultaneously while keeping the opposite edges fixed.
+>
+> <p align="center">
+>   <img src="Images/Gif_3.gif" height="300">
+>   <img src="Images/Gif_4.gif" height="300">
+> </p>
+>
+> **`Corner Handles`** are located at the corners of the bounding box. Drag a handle to scale the selection along all relevant axes while keeping the opposite corner fixed.
+>
+> <p align="center">
+>   <img src="Images/Gif_5.gif" height="300">
+> </p>
 
-To activate Edge/Corner handles hold `Ctrl button` or select `Corner Handles checkbox` from the menu at the bottom left. Hover your mouse over the place where the handle should be
+<br>
 
-<p align="center">
-  <img src="Images/CornerHandles.png" height="300" align="middle">
-  <img src="Images/Gif_6.gif" height="300" align="middle">
-</p>
-
-
-- **`Edge Handles`** located on the edges of the bounding box. Drag a handle to scale the selection along two axes simultaneously while keeping the opposite edges fixed
-
-<p>&nbsp;</p>
-
-<p align="center">
-  <img src="Images/Gif_3.gif" height="300">
-  <img src="Images/Gif_4.gif" height="300">
-</p>
-
-- **`Corner Handles`** located at the corners of the bounding box. Drag a handle to scale the selection along all relevant axes while keeping the opposite corner fixed. 
-
-<p align="center">
-  <img src="Images/Gif_5.gif" height="300">
-</p>
-
-<p>&nbsp;</p>
-
-## ◆`Flat Mode`
-
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;1. Plane objects</h2>
+### 5. Flat Mode
