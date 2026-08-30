@@ -13,6 +13,7 @@ Advanced Scale is a bounding box scaling tool for Unreal editor
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;1. Face Handles</h2>
 Located at the center of each face. Drag a handle to scale the selection along a single axis while the opposite face remains fixed
 
+<p>&nbsp;</p>
 
 <p align="center">
   <img src="Images/Gif_1.gif" width="49%">
