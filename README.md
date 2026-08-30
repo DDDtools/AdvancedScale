@@ -88,6 +88,5 @@
 > When a flat object is selected, flat mode is activated. Face Handles are displayed only on four sides. Corner Handles are displayed in corners
 > 
 > > <p align="center">
->   <img src="Images/Flatmode_1.png" height="300">
->   <img src="Images/Flatmode_2.png" height="300">
+>   <img src="Images/Gif_7.gif" height="300">
 > </p>
