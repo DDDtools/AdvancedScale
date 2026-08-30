@@ -1,14 +1,19 @@
-#  Advanced Scale
+# ◆`Advanced Scale`
 
 Advanced Scale is a bounding box scaling tool for Unreal editor
 
-# Instalation
+<p>&nbsp;</p>
+
+## ◆`Instalation`
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;1. Install Plugin to project</h2>
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;2. Turn on Advanced Scale in plugin list</h2>
 
+
  <img src="Images/Install.png">
 
-# Interface
+ <p>&nbsp;</p>
+
+## ◆`Interface`
 
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;1. Face Handles</h2>
 Located at the center of each face. Drag a handle to scale the selection along a single axis while the opposite face remains fixed
@@ -22,11 +27,11 @@ Located at the center of each face. Drag a handle to scale the selection along a
 
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;2. Edge/Corner Handles</h2>
 
-To activate, hold Ctrl or select Corner Handles from the menu at the bottom right 
+To activate Edge/Corner handles hold `Ctrl button` or select Corner Handles from the menu at the bottom right 
 
-<img src="CornerHandles.png" >
+<img src="Images/CornerHandles.png" >
 
-Located on the edges of the bounding box. Drag a handle to scale the selection along two axes simultaneously while keeping the opposite edges fixed
+- **`Edge handles`** located on the edges of the bounding box. Drag a handle to scale the selection along two axes simultaneously while keeping the opposite edges fixed
 
 <p>&nbsp;</p>
 
@@ -35,10 +40,12 @@ Located on the edges of the bounding box. Drag a handle to scale the selection a
   <img src="Images/Gif_4.gif" height="300">
 </p>
 
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;3. Corner Handles</h2>
-Located at the corners of the bounding box. Drag a handle to scale the selection along all relevant axes while keeping the opposite corner fixed
+- **`Corner handles`** located at the corners of the bounding box. Drag a handle to scale the selection along all relevant axes while keeping the opposite corner fixed
 
-
+<p align="center">
+  <img src="Images/Gif_3.gif" height="300">
+  <img src="Images/Gif_4.gif" height="300">
+</p>
 
 
 
