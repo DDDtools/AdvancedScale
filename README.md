@@ -43,8 +43,7 @@ To activate Edge/Corner handles hold `Ctrl button` or select Corner Handles from
 - **`Corner handles`** located at the corners of the bounding box. Drag a handle to scale the selection along all relevant axes while keeping the opposite corner fixed
 
 <p align="center">
-  <img src="Images/Gif_3.gif" height="300">
-  <img src="Images/Gif_4.gif" height="300">
+  <img src="Images/Gif_5.gif" height="300">
 </p>
 
 
