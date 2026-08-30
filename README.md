@@ -22,6 +22,9 @@ Located at the center of each face. Drag a handle to scale the selection along a
 
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;2. Edge/Corner Handles</h2>
 
+To activate, hold Ctrl or select Corner Handles from the menu at the bottom right 
+
+<img src="CornerHandles.png" >
 
 Located on the edges of the bounding box. Drag a handle to scale the selection along two axes simultaneously while keeping the opposite edges fixed
 
