@@ -23,6 +23,13 @@ Located at the center of each face. Drag a handle to scale the selection along a
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;2. Edge Handles</h2>
 Located on the edges of the bounding box. Drag a handle to scale the selection along two axes simultaneously while keeping the opposite edges fixed
 
+<p>&nbsp;</p>
+
+<p align="center">
+  <img src="Images/Gif_1.gif" width="49%">
+  <img src="Images/Gif_2.gif" width="49%">
+</p>
+
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;3. Corner Handles</h2>
 Located at the corners of the bounding box. Drag a handle to scale the selection along all relevant axes while keeping the opposite corner fixed
 
