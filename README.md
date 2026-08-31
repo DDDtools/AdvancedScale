@@ -30,10 +30,11 @@
 
 ### 1. Hotkeys
 
-> - `Alt+T` - Turn on Advanced Scale
-> - `Ctrl` - Hold `Ctrl` to turn on Edge/Corner handles
-> - `Shift` - Hold `Shift` while dragging handles to scale uniformly
-> - `Alt` - Hold `Alt` while dragging handles to scale opposite sides
+> - `Alt+T` - Turn Advanced Scale on
+> - `Ctrl` - Hold `Ctrl` to enable Edge/Corner Handles
+> - `Shift` - Hold `Shift` while dragging a handle to scale uniformly
+> - `Alt` - Hold `Alt` while dragging a handle to scale from both sides
+> - `V` - Hold `V` to enable vertex snapping
 
 <p>&nbsp;</p>
 
@@ -105,7 +106,22 @@
 
 <br>
 
-### 6. Multi objects
+### 6. Hotkeys usage
+> - #### Uniform Scale
+> Hold `Shift` while dragging a handle to scale uniformly
+>
+> <p align="center">
+>   <img src="Images/Gif_3.gif" height="300">
+> </p>
+
+
+
+
+
+
+
+
+### 7. Multi objects
 > - #### Multiple objects
 > Advanced Scale supports scaling multiple objects simultaneously, including those that are rotated relative to each other $\color{red}{\Large\text{(see the Limitations section for limitations)}}$
 >
