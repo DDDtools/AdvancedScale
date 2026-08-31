@@ -1,4 +1,4 @@
-# ◆ `Advanced Scale`
+# ◆ `Advanced Scale` tool
 
 > Advanced Scale is a bounding box scaling tool for the Unreal Editor
 
