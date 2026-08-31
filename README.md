@@ -122,10 +122,11 @@
 > </p>
 >
 > - #### Vertex snapping
-> Hold `V` while dragging a handle to enable vertex snapping
+> Hold `V` while dragging a handle to enable vertex snapping. Drag the mouse to the object you want to align with, even if it is far away. Works for handles on sides, edges and corners
 >
 > <p align="center">
->   <img src="Images/Gif_12.gif" height="300">
+>   <img src="Images/Gif_13.gif" height="300">
+>   <img src="Images/Gif_14.gif" height="300">
 > </p>
 
 
