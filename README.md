@@ -111,7 +111,14 @@
 > Hold `Shift` while dragging a handle to scale uniformly
 >
 > <p align="center">
->   <img src="Images/Gif_3.gif" height="300">
+>   <img src="Images/Gif_11.gif" height="300">
+> </p>
+>
+> - #### 2-Side Scale
+> Hold `Alt` while dragging a handle to scale from both sides
+>
+> <p align="center">
+>   <img src="Images/Gif_11.gif" height="300">
 > </p>
 
 
