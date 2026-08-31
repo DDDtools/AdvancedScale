@@ -34,7 +34,7 @@
 > - `Ctrl` - Hold `Ctrl` to enable Edge/Corner Handles
 > - `Shift` - Hold `Shift` while dragging a handle to scale uniformly
 > - `Alt` - Hold `Alt` while dragging a handle to scale from both sides
-> - `V` - Hold `V` to enable vertex snapping
+> - `V` - Hold `V` while dragging a handle to enable vertex snapping
 
 <p>&nbsp;</p>
 
@@ -118,7 +118,14 @@
 > Hold `Alt` while dragging a handle to scale from both sides
 >
 > <p align="center">
->   <img src="Images/Gif_11.gif" height="300">
+>   <img src="Images/Gif_12.gif" height="300">
+> </p>
+>
+> - #### Vertex snapping
+> Hold `V` while dragging a handle to enable vertex snapping
+>
+> <p align="center">
+>   <img src="Images/Gif_12.gif" height="300">
 > </p>
 
 
