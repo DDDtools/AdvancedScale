@@ -129,6 +129,10 @@
 >   <img src="Images/Gif_14.gif" height="300">
 > </p>
 
+<br>
+
+> ### 7. Grid snapping
+> 
 
 
 
@@ -136,7 +140,8 @@
 
 
 
-### 7. Multi objects
+
+### 8. Multi objects
 > - #### Multiple objects
 > Advanced Scale supports scaling multiple objects simultaneously, including those that are rotated relative to each other $\color{red}{\Large\text{(see the Limitations section for limitations)}}$
 >
