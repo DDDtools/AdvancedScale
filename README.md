@@ -132,7 +132,10 @@
 <br>
 
 > ### 7. Grid snapping
-> 
+> Enable `Snapping to the grid` for dragging
+> <p align="center">
+>   <img src="Images/Gif_15.gif" height="300">
+> </p>
 
 
 
