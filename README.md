@@ -144,9 +144,9 @@
 
 
 
-### 8. Multi objects
+### 8. Multi objects $\color{red}{\Large\text{(see the Limitations section for limitations)}}$
 > - #### Multiple objects
-> Advanced Scale supports scaling multiple objects simultaneously, including those that are rotated relative to each other $\color{red}{\Large\text{(see the Limitations section for limitations)}}$
+> Advanced Scale supports scaling multiple objects simultaneously, including those that are rotated relative to each other
 >
 > <p align="center">
 >   <img src="Images/Gif_9.gif" height="200">
