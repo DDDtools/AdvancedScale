@@ -141,7 +141,7 @@
 
 ### 8. Multi objects $\color{red}{\text{(see the Limitations section for limitations)}}$
 > Advanced Scale supports scaling multiple objects simultaneously, including those that are rotated relative to each other
-> - #### Multiple objects rotated 90 degrees relative to each other
+> - #### Several objects are rotated in 90 degree increments relative to each other
 >
 > <p align="center">
 >   <img src="Images/Gif_9.gif" height="200">
@@ -156,3 +156,10 @@
 > </p>
 >
 > - #### Local/World aligment
+> If several objects are rotated the same way or in 90 degree increments, the Scale Bouding Box is oriented locally. 
+> If several objects are rotated differently, the Scale Bounding Box has a world orientation
+>
+> <p align="center">
+>   <img src="Images/Gif_17.gif" height="200">
+>   <img src="Images/Gif_18.gif" height="200">
+> </p>
