@@ -137,22 +137,22 @@
 >   <img src="Images/Gif_15.gif" height="300">
 > </p>
 
+<br>
 
-
-
-
-
-
-
-### 8. Multi objects $\color{red}{\Large\text{(see the Limitations section for limitations)}}$
-> - #### Multiple objects rotated 90 degrees relative to each other
+### 8. Multi objects $\color{red}{\text{(see the Limitations section for limitations)}}$
 > Advanced Scale supports scaling multiple objects simultaneously, including those that are rotated relative to each other
+> - #### Multiple objects rotated 90 degrees relative to each other
 >
 > <p align="center">
 >   <img src="Images/Gif_9.gif" height="200">
 >   <img src="Images/Gif_10.gif" height="200">
 > </p>
 >
-> - #### Multiple objects rotated at an arbitrary angle
+> - #### Multiple objects rotated at an arbitrary angle.
+> When moving the handles, objects are scaled along local axes and shifted relative to the bounding box
 >
-
+> <p align="center">
+>   <img src="Images/Gif_16.gif" height="300">
+> </p>
+>
+> - #### Local/World aligment
