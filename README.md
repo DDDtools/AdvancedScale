@@ -145,10 +145,14 @@
 
 
 ### 8. Multi objects $\color{red}{\Large\text{(see the Limitations section for limitations)}}$
-> - #### Multiple objects
+> - #### Multiple objects rotated 90 degrees relative to each other
 > Advanced Scale supports scaling multiple objects simultaneously, including those that are rotated relative to each other
 >
 > <p align="center">
 >   <img src="Images/Gif_9.gif" height="200">
 >   <img src="Images/Gif_10.gif" height="200">
 > </p>
+>
+> - #### Multiple objects rotated at an arbitrary angle
+>
+
