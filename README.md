@@ -47,7 +47,6 @@
 > </p>
 >
 > - Corner Handles - Turn on Corner and Edge handles
-> - Local Offset - Adjusts each object’s position along its local axes while scaling
 > - Show in Game View - Display bounding box of Advanced Scale tool in Game View mode
 
 <br>
