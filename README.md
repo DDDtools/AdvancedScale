@@ -163,3 +163,29 @@
 >   <img src="Images/Gif_17.gif" height="200">
 >   <img src="Images/Gif_18.gif" height="200">
 > </p>
+
+</blockquote>
+
+## ◆ `Plugins Settings`
+
+> Go to the `Editor Preference/Plugins/Advanced Scale`
+
+> ### 1. Appearance
+> - Edge Color — Changes the color of the bounding frame
+> - Face Handle Color — Changes the color of the handles located at the center of each face
+> - Corner Handle Color — Changes the color of the two-axis corner handles
+> - Box Corner Handle Color — Changes the color of the three-axis handles located at the actual corners of the box
+>
+> ### 2. Viewport Menu Settings
+> - Bottom Offset (px) — Sets the distance between the bottom of the viewport and the Advanced Scale menu
+> - Show Modifier Hints — Shows or hides the keyboard shortcut reminder at the bottom of the viewport: `Ctrl — Corner Handles, Shift — Uniform Scale, Alt — Mirror Scale`
+>
+> ### 3. Point Handles
+> - Interaction Radius (px) — Sets how close the mouse cursor must be to a point handle for it to react. This value is measured in screen pixels
+>
+> ### 4. Vertex Snapping
+> - Search Radius — Sets the maximum world-space distance around the current mouse position in which vertex snap candidates are searched while holding `V`
+> - Screen Snap Radius (px) — Sets how close a vertex must appear to the cursor on screen before it can be selected as a snap target
+>
+> ### 5. Flat Mode
+> - Flat Mode Threshold — Determines when a thin object is treated as flat. The value is relative to its other dimensions: for example, 0.05 means 5%
