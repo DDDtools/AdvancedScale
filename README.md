@@ -181,12 +181,33 @@
 >       <img src="Images/Gif_20.gif" height="300"><br>
 >       BP components are rotated differently
 >     </td>
+>       <td align="center">
+>       <img src="Images/Gif_21.gif" height="300"><br>
+>       Uniform scaling
+>     </td>
 >   </tr>
 > </table>
 >
 > - #### Level Instance Scaling
 > LI in the scene does not support correct scaling if components are rotated relative to each other. Components will be scaled along local axes.
 > Uniform LI scaling works as expected. Inside LI objects are scaled the same as several other objects in the scene
+>
+> <table>
+>   <tr>
+>     <td align="center">
+>       <img src="Images/Gif_19.gif" height="300"><br>
+>       BP components are rotated equally
+>     </td>
+>     <td align="center">
+>       <img src="Images/Gif_20.gif" height="300"><br>
+>       BP components are rotated differently
+>     </td>
+>       <td align="center">
+>       <img src="Images/Gif_21.gif" height="300"><br>
+>       Uniform scaling
+>     </td>
+>   </tr>
+> </table>
 >
 </blockquote>
 
