@@ -175,11 +175,11 @@
 >   <tr>
 >     <td align="center">
 >       <img src="Images/Gif_19.gif" height="300"><br>
->       The components are rotated equally
+>       BP components are rotated equally
 >     </td>
 >     <td align="center">
->       <img src="Images/Gif_19.gif" height="300"><br>
->       Scaling a rotated object
+>       <img src="Images/Gif_20.gif" height="300"><br>
+>       BP components are rotated differently
 >     </td>
 >   </tr>
 > </table>
