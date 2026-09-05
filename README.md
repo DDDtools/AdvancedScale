@@ -1,4 +1,7 @@
 # ◆ `Advanced Scale` tool - V 1.00
+
+> FAB page - 
+> Support email - dddtools.support@gmail.com
 >
 > Supports Unreal Engine versions $\Large\text{5.2 - 5.8}$
 >
