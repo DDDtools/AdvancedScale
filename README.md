@@ -1,4 +1,4 @@
-# ◆ `Advanced Scale` tool - V 1.01
+# ◆ `Advanced Scale` tool - V 1.00
 
 > Advanced Scale is a bounding box scaling tool for the Unreal Editor
 
@@ -166,7 +166,7 @@
 
 ### 9. Limitations
 > - #### Blueprint Support
-> Version 1.01 does not support scaling inside BP
+> Version 1.00 does not support scaling inside BP
 >
 > - #### Blueprint Scaling
 > Blueprint in the scene does not support correct scaling if components are rotated relative to each other. Components will be scaled along local axes. Uniform BP scaling works as expected
