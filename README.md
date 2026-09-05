@@ -230,16 +230,19 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 > - Edge Handle Color — Color of the two-axis handles located on the edges of the Advanced Scale frame. Hover highlighting is derived automatically
 > - Corner Handle Color — Color of the three-axis handles located at the corners of the Advanced Scale frame. Hover highlighting is derived automatically
 >
-> ### 2. Viewport Menu Settings
+> ### 2. Toolbar
+> - Show Toolbar Button — Show the Advanced Scale button in the Level Editor toolbar. The keyboard shortcut remains available when the button is hidden
+> 
+> ### 3. Viewport Menu
 > - Bottom Offset (px) — Sets the distance between the bottom of the viewport and the Advanced Scale menu
 > - Show Modifier Hints —Shows or hides the modifier key hints at the bottom of the viewport: `Ctrl — Corner Handles, Shift — Uniform Scale, Alt — Mirror Scale`
 >
-> ### 3. Point Handles
+> ### 4. Point Handles
 > - Interaction Radius (px) — Sets how close the mouse cursor must be to a point handle for it to react. This value is measured in screen pixels
 >
-> ### 4. Vertex Snapping
+> ### 5. Vertex Snapping
 > - Search Radius — Sets the maximum world-space distance around the current mouse position used to search for vertex snap targets while holding `V`
 > - Screen Snap Radius (px) — Sets how close a vertex must appear to the cursor on screen before it can be selected as a snap target
 >
-> ### 5. Flat Mode
+> ### 6. Flat Mode
 > - Flat Mode Threshold — Determines when a thin object is treated as flat. The value is relative to its other dimensions: for example, 0.05 means 5%
