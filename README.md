@@ -7,7 +7,7 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 >   <tr>
 >     <td align="center">
 >       <img src="Images/Gif_23.gif" height="300"><br>
->       Default Scale Tool
+>       Default scaling of rotated and mirrored objects
 >     </td>
 >     <td align="center">
 >       <img src="Images/Gif_23_1.gif" height="300"><br>
