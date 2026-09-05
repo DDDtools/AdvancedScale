@@ -171,6 +171,10 @@
 > - #### Blueprint Scaling
 > Blueprint in the scene does not support correct scaling if components are rotated relative to each other. Components will be scaled along local axes. Uniform BP scaling works as expected
 >
+> <p align="center">
+>   <img src="Images/Gif_16.gif" height="300">
+> </p>
+>
 > - #### Level Instance Scaling
 > LI in the scene does not support correct scaling if components are rotated relative to each other. Components will be scaled along local axes.
 > Uniform LI scaling works as expected. Inside LI objects are scaled the same as several other objects in the scene
