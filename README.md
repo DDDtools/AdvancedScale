@@ -49,7 +49,7 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 
 ### 2. Menu
 
-> By default, the menu is located in the lower left corner of the viewport
+> The menu appears when Advanced Scale is activated and an object is selected. By default, the menu is located in the lower left corner of the viewport
 >
 > <p align="center">
 >   <img src="Images/Menu.png" height="300">
