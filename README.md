@@ -183,7 +183,7 @@
 >     </td>
 >       <td align="center">
 >       <img src="Images/Gif_21.gif" height="300"><br>
->       Scaling inside LI
+>       Uniform scaling
 >     </td>
 >   </tr>
 > </table>
@@ -196,15 +196,15 @@
 >   <tr>
 >     <td align="center">
 >       <img src="Images/Gif_19.gif" height="300"><br>
->       BP components are rotated equally
+>       LI components are rotated equally
 >     </td>
 >     <td align="center">
 >       <img src="Images/Gif_20.gif" height="300"><br>
->       BP components are rotated differently
+>       LI components are rotated differently
 >     </td>
 >       <td align="center">
 >       <img src="Images/Gif_22.gif" height="300"><br>
->       Uniform scaling
+>       Scaling inside LI
 >     </td>
 >   </tr>
 > </table>
