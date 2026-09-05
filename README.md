@@ -226,9 +226,9 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 
 > ### 1. Appearance
 > - Edge Color — Changes the color of the bounding frame
-> - Face Handle Color — Changes the color of the handles located at the center of each face
-> - Corner Handle Color — Changes the color of the two-axis corner handles
-> - Box Corner Handle Color — Changes the color of the three-axis handles located at the actual corners of the box
+> - Face Handle Color — Color of the handles located at the center of each face
+> - Edge Handle Color — Color of the two-axis handles located on the edges of the Advanced Scale frame. Hover highlighting is derived automatically
+> - Corner Handle Color — Color of the three-axis handles located at the corners of the Advanced Scale frame. Hover highlighting is derived automatically
 >
 > ### 2. Viewport Menu Settings
 > - Bottom Offset (px) — Sets the distance between the bottom of the viewport and the Advanced Scale menu
