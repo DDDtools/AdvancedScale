@@ -1,6 +1,14 @@
 # ◆ `Advanced Scale` tool - V 1.00
 
-> Advanced Scale is a bounding box scaling tool for the Unreal Editor
+> Advanced Scale is a bounding box scaling tool for the Unreal Editor.
+Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling tool that changes the position and/or scale of selected objects.
+> 
+> > <p align="center">
+>   <img src="Images/Gif_1.gif" height="100" align="middle">
+>   <img src="Images/Gif_3.gif" height="100" align="middle">
+>   <img src="Images/Gif_5.gif" height="100" align="middle">
+>   <img src="Images/Gif_11.gif" height="100" align="middle">
+> </p>
 
 <br>
 
