@@ -55,8 +55,8 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 >   <img src="Images/Menu.png" height="300">
 > </p>
 >
-> - Corner Handles - Enables Corner and Edge Handles
-> - Show in Game View - Displays the Advanced Scale bounding box in Game View mode
+> - `Corner Handles` - Enables Corner and Edge Handles
+> - `Show in Game View` - Displays the Advanced Scale bounding box in Game View mode
 
 <br>
 
