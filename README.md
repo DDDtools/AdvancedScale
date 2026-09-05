@@ -1,6 +1,6 @@
 # ◆ `Advanced Scale` tool - V 1.00
 
-> Advanced Scale is a bounding box scaling tool for the Unreal Editor. Supports `single` and `multiple object` selections, including objects rotated relative to each other.
+> Advanced Scale is a bounding box scaling tool for the Unreal Editor. Supports `single` and `multiple object selections`, including mirrored objects and objects rotated relative to each other.
 Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling tool that changes the position and/or scale of selected objects.
 > 
 > <table align="center">
