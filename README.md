@@ -175,20 +175,20 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 
 ### 9. $\color{red}{\text{Limitations}}$
 > - #### Blueprint Support
-> Version 1.00 does not support scaling inside BP
+> Version 1.00 does not support scaling components inside BP
 >
 > - #### Blueprint Scaling
-> Blueprint in the scene does not support correct scaling if components are rotated relative to each other. Components will be scaled along local axes. Uniform BP scaling works as expected
+> Blueprints in the scene do not scale correctly if their components are rotated relative to each other. Components are scaled along their local axes. Uniform BP scaling works as expected
 >
 > <table>
 >   <tr>
 >     <td align="center">
 >       <img src="Images/Gif_19.gif" height="300"><br>
->       BP components are rotated equally
+>       BP components with matching rotations
 >     </td>
 >     <td align="center">
 >       <img src="Images/Gif_20.gif" height="300"><br>
->       BP components are rotated differently
+>       BP components with different rotations
 >     </td>
 >       <td align="center">
 >       <img src="Images/Gif_21.gif" height="300"><br>
@@ -198,8 +198,8 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 > </table>
 >
 > - #### Level Instance Scaling
-> LI in the scene does not support correct scaling if components are rotated relative to each other. Components will be scaled along local axes.
-> Uniform LI scaling works as expected. Inside LI objects are scaled the same as several other objects in the scene
+> Level Instances with components rotated relative to each other may not scale correctly. Components are scaled along their local axes.
+> Uniform LI scaling works as expected. Objects inside a Level Instance are scaled in the same way as multiple selected objects in the scene
 >
 > <table>
 >   <tr>
@@ -220,9 +220,9 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 >
 </blockquote>
 
-## ◆ `Plugins Settings`
+## ◆ `Plugin Settings`
 
-> Go to the `Editor Preference/Plugins/Advanced Scale`
+> Go to `Editor Preferences > Plugins > Advanced Scale`
 
 > ### 1. Appearance
 > - Edge Color — Changes the color of the bounding frame
@@ -232,13 +232,13 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 >
 > ### 2. Viewport Menu Settings
 > - Bottom Offset (px) — Sets the distance between the bottom of the viewport and the Advanced Scale menu
-> - Show Modifier Hints — Shows or hides the keyboard shortcut reminder at the bottom of the viewport: `Ctrl — Corner Handles, Shift — Uniform Scale, Alt — Mirror Scale`
+> - Show Modifier Hints —Shows or hides the modifier key hints at the bottom of the viewport: `Ctrl — Corner Handles, Shift — Uniform Scale, Alt — Mirror Scale`
 >
 > ### 3. Point Handles
 > - Interaction Radius (px) — Sets how close the mouse cursor must be to a point handle for it to react. This value is measured in screen pixels
 >
 > ### 4. Vertex Snapping
-> - Search Radius — Sets the maximum world-space distance around the current mouse position in which vertex snap candidates are searched while holding `V`
+> - Search Radius — Sets the maximum world-space distance around the current mouse position used to search for vertex snap targets while holding `V`
 > - Screen Snap Radius (px) — Sets how close a vertex must appear to the cursor on screen before it can be selected as a snap target
 >
 > ### 5. Flat Mode
