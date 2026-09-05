@@ -185,7 +185,7 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 > - #### Blueprint Scaling
 > Blueprints in the scene do not scale correctly if their components are rotated relative to each other. Components are scaled along their local axes. Uniform BP scaling works as expected
 >
-> <table>
+> <table align="center">
 >   <tr>
 >     <td align="center">
 >       <img src="Images/Gif_19.gif" height="300"><br>
