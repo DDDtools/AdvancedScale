@@ -175,7 +175,7 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 
 ### 9. $\color{red}{\text{Limitations}}$
 > - #### Blueprint Support
-> Version 1.00 does not support scaling components inside BP
+> Сurrent version does not support scaling components inside BP
 >
 > - #### Blueprint Scaling
 > Blueprints in the scene do not scale correctly if their components are rotated relative to each other. Components are scaled along their local axes. Uniform BP scaling works as expected
