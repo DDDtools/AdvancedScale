@@ -3,11 +3,18 @@
 > Advanced Scale is a bounding box scaling tool for the Unreal Editor. Supports `single` and `multiple object` selections, including objects rotated relative to each other.
 Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling tool that changes the position and/or scale of selected objects.
 > 
-> <p align="center">
->   <img src="Images/Gif_10_1.gif" height="200" align="middle">
->   <img src="Images/Gif_1.gif" height="200" align="middle">
->   <img src="Images/Gif_3.gif" height="200" align="middle">
-> </p>
+> <table align="center">
+>   <tr>
+>     <td align="center">
+>       <img src="Images/Gif_23.gif" height="300"><br>
+>       Default Scale Tool
+>     </td>
+>     <td align="center">
+>       <img src="Images/Gif_23_1.gif" height="300"><br>
+>       Advanced Scale
+>     </td>
+>   </tr>
+> </table>
 
 <br>
 
@@ -199,7 +206,7 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 > Level Instances with components rotated relative to each other may not scale correctly. Components are scaled along their local axes.
 > Uniform LI scaling works as expected. Objects inside a Level Instance are scaled in the same way as multiple selected objects in the scene
 >
-> <table>
+> <table align="center">
 >   <tr>
 >     <td align="center">
 >       <img src="Images/Gif_19.gif" height="300"><br>
