@@ -249,7 +249,8 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 > - Show Modifier Hints —Shows or hides the modifier key hints at the bottom of the viewport: `Ctrl — Corner Handles, Shift — Uniform Scale, Alt — Mirror Scale`
 >
 > ### 4. Point Handles
-> - Interaction Radius (px) — Sets how close the mouse cursor must be to a point handle for it to react. This value is measured in screen pixels
+> - Handle Size (px) - Visual diameter of face, edge, and corner handles in screen pixels
+> - Interaction Distance (px) — Sets how close the mouse cursor must be to a point handle for it to react. This value is measured in screen pixels
 >
 > ### 5. Vertex Snapping
 > - Search Radius — Sets the maximum world-space distance around the current mouse position used to search for vertex snap targets while holding `V`
