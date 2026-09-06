@@ -1,4 +1,4 @@
-# ◆ `Advanced Scale` tool - V 1.00
+# ◆ `Advanced Scale` tool - V 1.00 
 
 > FAB page - 
 >
