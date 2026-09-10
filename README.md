@@ -253,7 +253,6 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 > - Interaction Distance (px) — Sets how close the mouse cursor must be to a point handle for it to react. This value is measured in screen pixels
 >
 > ### 5. Vertex Snapping
-> - Search Radius — Sets the maximum world-space distance around the current mouse position used to search for vertex snap targets while holding `V`
 > - Screen Snap Radius (px) — Sets how close a vertex must appear to the cursor on screen before it can be selected as a snap target
 >
 > ### 6. Flat Mode
