@@ -50,7 +50,7 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 
 ### 1. Hotkeys
 
-> - `Alt+T` - Turn Advanced Scale on
+> - `Alt+T` - Turn Advanced Scale on. Can be configured in the Hotkeys panel
 > - `Ctrl` - Hold `Ctrl` to enable Edge/Corner Handles
 > - `Shift` - Hold `Shift` while dragging a handle to scale uniformly
 > - `Alt` - Hold `Alt` while dragging a handle to scale from both sides
