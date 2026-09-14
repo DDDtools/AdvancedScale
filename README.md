@@ -180,16 +180,16 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 > - #### Bounding Box Alignment
 > If a `single object` is selected, the bounding box is always oriented in local space.
 > 
-> If `multiple objects` are selected, you can use the eyedropper to choose a reference object that determines the orientation of the Advanced Scale bounding box
+> By default, the bounding box for multiple objects is oriented to world space, but you can use the eyedropper to choose a reference object that determines the orientation of the Advanced Scale bounding box
 >
 > <table align="center">
 >   <tr>
 >     <td align="center">
->       <img src="Images/Gif_19.gif" height="300"><br>
+>       <img src="Images/Gif_17.gif" height="300"><br>
 >       Bounding box of a single object
 >     </td>
 >     <td align="center">
->       <img src="Images/Gif_20.gif" height="300"><br>
+>       <img src="Images/Gif_18.gif" height="300"><br>
 >       BP components with different rotations
 >     </td>
 >   </tr>
