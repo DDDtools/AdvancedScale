@@ -190,7 +190,7 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 >     </td>
 >     <td align="center">
 >       <img src="Images/Gif_18.gif" height="300"><br>
->       BP components with different rotations
+>       Bounding Box of multiple objects
 >     </td>
 >   </tr>
 > </table>
