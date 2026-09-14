@@ -69,7 +69,7 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 >
 > - `Corner Handles` - Enables Corner and Edge Handles
 > - `Show in Game View` - Displays the Advanced Scale bounding box in Game View mode
-> - `Eyedropper` - Pick an actor whose orientation will be used by the bounding box. Works when multiple objects are selected
+> - `Eyedropper` - Pick an actor whose orientation will be used by the bounding box. Works when multiple objects are selected. The selected object will be reset when all objects are deselected, Advanced Scale is disabled, or the X button in the menu is pressed
 > - `X` - Reset the bounding box orientation to World
 
 <br>
@@ -177,9 +177,8 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 >   <img src="Images/Gif_16.gif" height="300">
 > </p>
 >
-> - #### Local/World Alignment
-> If multiple objects have the same rotation or are rotated in 90-degree increments relative to each other, the Scale Bounding Box uses local orientation 
-> If multiple objects have different arbitrary rotations, the Scale Bounding Box uses world orientation
+> - #### Bounding Box Alignment
+>
 >
 > <p align="center">
 >   <img src="Images/Gif_17.gif" height="200">
