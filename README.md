@@ -26,8 +26,9 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 
 ## ◆ `Installation`
 
-> 1. Install the plugin in your project
-> 2. Enable Advanced Scale in the Plugins list
+> 1. Add Advanced Scale to your library on Fab
+> 2. Install it through the Epic Games Launcher
+> 3. Enable Advanced Scale in Edit → Plugins and restart the editor
 >
 > <p align="center">
 >   <img src="Images/Install.png">
@@ -68,6 +69,8 @@ Advanced Scale doesn't modify the default Scale tool. It adds a separate scaling
 >
 > - `Corner Handles` - Enables Corner and Edge Handles
 > - `Show in Game View` - Displays the Advanced Scale bounding box in Game View mode
+> - `Eyedropper` - Pick an actor whose orientation will be used by the bounding box. Works when multiple objects are selected
+> - `X` - Reset the bounding box orientation to World
 
 <br>
 
